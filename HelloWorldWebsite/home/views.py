@@ -7,9 +7,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 def Home(request):
-
-    context = {
-
-    }
     template = loader.get_template('home/index.html')
-    return HttpResponse(template.render(request=request, context= context))
+    return HttpResponse(template.render(request=request))
