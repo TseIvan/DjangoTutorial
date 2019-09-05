@@ -1,1 +1,56 @@
-<h1> Hello World </h1>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1, shrink-to-fit=no">
+
+<!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+</head>
+
+<body>
+
+  <style>
+  .colour {
+    color: #FF0000;
+    background-color: #000000;
+  }
+
+  .wrapper .button-css {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF0000;
+  }
+
+  .helloworld-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .wrapper {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+  }
+  </style>
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<div class="wrapper">
+  <h1 class="helloworld-text">Hello World!</h1>
+  <button id="button" class="btn button-css waves-effect" onclick="changeColor();">Submit</button>
+</div>
+
+<script>
+  function changeColor(){
+    console.log("here")
+    var button = document.getElementById('button');
+    document.body.classList.toggle('colour')
+  }
+</script>
+
+
+</body>
