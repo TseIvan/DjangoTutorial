@@ -3,6 +3,8 @@ Basic Django Homepage Tutorial
 
 CMPUT 401 Hackathon Fall 2019 Semester
 
+Slides for Google Drive: https://docs.google.com/presentation/d/1307cdHyD-2o8MMwxNkpjVfLaFVp8VZMdcZbNjNATtOA/edit?usp=sharing
+
 Useful Links to build off of this:
 
 Django Models:
