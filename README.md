@@ -16,7 +16,7 @@ Django Models:
 Django Class based views:
   https://docs.djangoproject.com/en/2.2/topics/class-based-views/
 
-Django POST Request:
+Django POST Request (Sending information from Front-end to Back-end):
   https://www.youtube.com/watch?v=KRanyK02uO8
 
 Django RESTful API:
