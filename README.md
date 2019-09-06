@@ -7,8 +7,11 @@ Slides for Google Drive: https://docs.google.com/presentation/d/1307cdHyD-2o8MMw
 
 Useful Links to build off of this:
 
-Django Tutorial Complete for website:
+Django Tutorial Youtube:
   https://www.youtube.com/watch?v=UmljXZIypDc
+  
+Django Tutorial Text (Highly Recommended):
+  https://tutorial.djangogirls.org/en/django_start_project/
 
 Django Models:
   https://docs.djangoproject.com/en/2.2/topics/db/models/
