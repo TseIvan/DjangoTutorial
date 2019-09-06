@@ -7,6 +7,9 @@ Slides for Google Drive: https://docs.google.com/presentation/d/1307cdHyD-2o8MMw
 
 Useful Links to build off of this:
 
+Django Tutorial Complete for website:
+  https://www.youtube.com/watch?v=UmljXZIypDc
+
 Django Models:
   https://docs.djangoproject.com/en/2.2/topics/db/models/
 
