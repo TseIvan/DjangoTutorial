@@ -13,6 +13,13 @@ CMPUT 401 Hackathon Fall 2019 Semester && Winter 2020 Semester
 
 Slides for Google Drive: https://docs.google.com/presentation/d/1307cdHyD-2o8MMwxNkpjVfLaFVp8VZMdcZbNjNATtOA/edit?usp=sharing
 
+# Running in background:
+  `nohup python3 manage.py runserver &` => runs in background it will show process number on screen eg: 2773
+  
+  `kill 2773`
+  
+  If you forget then type `ps` and find the process that is `python3` and type above command.
+
 # Useful Links to build off of this:
 
 Django Tutorial Youtube:
