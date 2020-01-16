@@ -33,5 +33,5 @@ Django POST Request (Sending information from Front-end to Back-end):
 Django RESTful API:
   https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/
 
-
+# Credits
 Made by Marissa Snihur & Ivan Tse
